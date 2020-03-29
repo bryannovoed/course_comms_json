@@ -1,4 +1,8 @@
 {
+  "_comment": "https://my-json-server.typicode.com/",
+  "profile": {
+    "name": "typicode"
+  },
   "id": 966787,
   "title": "Team",
   "index": 0,
