@@ -1,0 +1,26 @@
+{
+  "id": 966787,
+  "title": "Team",
+  "index": 0,
+  "type": "LecturePage",
+  "lecture_section_id": 147326,
+  "release_date": "2020-02-02T07:59:00.000Z",
+  "communications": [
+    {}
+  ],
+  "lecture_components": [
+    {
+      "id": 1403052,
+      "type": "TeamFormationLectureComponent",
+      "team_set": {
+        "id": 34266,
+        "name": {
+          "capitalizedPluralized": "Teams"
+        },
+      },
+      "team_formation": {
+        "communications": []
+      }
+    }
+  ]
+}
